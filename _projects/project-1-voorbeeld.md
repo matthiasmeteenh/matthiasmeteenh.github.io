@@ -4,8 +4,7 @@ title:  "supperhero website"
 
 ## titel 1
 
-voor dit eerste echte project moesten we een website maken over een verzonnen supperheld, De mijne was trump die een force field kon maken
-
+lorem
 <!--more-->
 
 ## titel 2
