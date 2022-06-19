@@ -13,8 +13,8 @@ collections:
 defaults:
     - scope:
           path: "_projects"
-      values:
-          
+      values: 
+          banner: "/assets/images/IMG_3772.JPG"
           excerpt_separator: "<!--more-->"
           layout: "project"
     - scope:
