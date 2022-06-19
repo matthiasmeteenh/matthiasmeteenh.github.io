@@ -84,3 +84,7 @@ footer a:hover {
     background-color: var(--color-complement);
     color: var(--color-accent);
 }
+
+.material-icons{
+ border: solid;
+}
