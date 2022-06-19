@@ -105,9 +105,10 @@ article>*:last-child:not(.full-bleed) {
 }
 
 #projects a .banner {
-    width: 3rem;
-    height: 3rem;
-    object-fit: cover;
+    width: 15rem;
+    height: 15rem;
+    object-fit: fill;
+    border-radius: 50%;
 }
 
 #projects>* {

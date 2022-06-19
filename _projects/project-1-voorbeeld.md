@@ -2,6 +2,9 @@
 title:  "supperhero website"
 ---
 
+---
+banner:  "./assets/images/IMG_3771.JPG"
+---
 ## titel 1
 
 lorem
