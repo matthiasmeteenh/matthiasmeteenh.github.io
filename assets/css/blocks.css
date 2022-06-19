@@ -42,10 +42,6 @@ body {
     background-color: var(--color-dominant);
 }
 
-#blogposts article {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
 
 #blogposts a:hover article {
     background-color: var(--color-accent);
@@ -64,6 +60,8 @@ body {
 a {
     color: inherit;
     text-decoration: inherit;
+    padding: 30px;
+
 }
 
 footer {
