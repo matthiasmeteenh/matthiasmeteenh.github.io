@@ -1,5 +1,5 @@
 ---
-title:  "Blogpost Voorbeeld"
+title:  "lorem ipsum"
 ---
 
 ## Lorem ipsum
