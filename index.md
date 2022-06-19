@@ -1,7 +1,8 @@
 ---
-title: My Blog
+title: Over mijzelf
 ---
 
-## Joske Vermeulen
+## Matthias Moers
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae perferendis repellendus assumenda velit, dolores enim odit iusto quis facere iure saepe dicta sunt atque quo eveniet necessitatibus fugiat facilis ipsam.
+Beste Bekijker van deze website.
+Hier zul je al mijn progressie kunnen volgen 

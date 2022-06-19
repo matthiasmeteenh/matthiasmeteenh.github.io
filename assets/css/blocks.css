@@ -42,7 +42,9 @@ body {
     background-color: var(--color-dominant);
 }
 
-
+#blogposts article {
+    
+}
 
 #blogposts a:hover article {
     background-color: var(--color-accent);
