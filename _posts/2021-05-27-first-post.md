@@ -6,6 +6,7 @@ title:  "lorem ipsum"
 In deze blog zal ik gaan schrijven over de dummy-tekst lorem ipsum. Graag zou ik achterhalen welke geheimen deze ‘taal’ heeft en of het een diepere betekenis.
  Waarom? Toen ik ontdekte dat er zoiets bestaat als lorem-ipsum vond ik dit facinerend (nu nog steeds eigenlijk).
 
+<!--more-->
 
 ## Het begin 
 Het gebruiken van dummytekst is uitermaten handig bij het maken van websites, zo kun je een stapje terugnemen en zien hoe het er uit gaat zien mocht je het vol ‘nuttige’ tekst steken. Zo vermijd je teleurstelling en overbodig werk. Het is wel duidelijk dat lorem ipsum zeer nuttig is, Maar ik ben vooral geïnteresseerd naar de betekenis erachter.
