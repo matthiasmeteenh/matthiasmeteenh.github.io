@@ -43,7 +43,8 @@ body {
 }
 
 #blogposts article {
-    
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #blogposts a:hover article {
