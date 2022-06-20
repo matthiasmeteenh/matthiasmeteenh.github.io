@@ -1,5 +1,5 @@
 import { getInputDirection } from "./input.js"
-
+//snelheid en de levensduur van de snake body//
 export const SNAKE_SPEED = 5
 const snakeBody = [{ x: 11, y: 11 }]
 let newSegments = 0
@@ -15,7 +15,7 @@ export function update() {
   snakeBody[0].x += inputDirection.x
   snakeBody[0].y += inputDirection.y
 }
-
+//gameboard maken//
 export function draw(gameBoard) {
   snakeBody.forEach(segment => {
     const snakeElement = document.createElement('div')
@@ -36,6 +36,8 @@ export function onSnake(position, { ignoreHead = false } = {}) {
     return equalPositions(segment, position)
   })
 }
+
+//het maken van de snake-bodyparts//
 
 export function getSnakeHead() {
   return snakeBody[0]

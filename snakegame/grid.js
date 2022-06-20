@@ -1,5 +1,5 @@
 const GRID_SIZE = 21
-
+// het veld en de random posities van het veld + de food //
 export function randomGridPosition() {
   return {
     x: Math.floor(Math.random() * GRID_SIZE) + 1,

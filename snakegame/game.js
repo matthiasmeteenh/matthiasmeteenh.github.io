@@ -27,7 +27,7 @@ function main(currentTime) {
 }
 
 window.requestAnimationFrame(main)
-
+// updatefuncties vanuit de les//
 function update() {
   updateSnake()
   updateFood()
