@@ -1,10 +1,11 @@
 ---
-title:  "Project 2 Voorbeeld"
+title:  "Snakegame"
 ---
 banner:  "./assets/images/IMG_3772.JPG"
-## titel 1
+## De snakegame
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit nulla dignissimos corporis aspernatur laudantium eaque expedita esse blanditiis fugiat a! Magnam laboriosam incidunt cumque explicabo sit non blanditiis accusantium mollitia? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae similique animi aliquam debitis beatae ratione? Sed quod dolorem vero accusamus explicabo aspernatur voluptatum qui quasi expedita nostrum, recusandae illo ratione?
+dit project beschreef hoe ik 3 verchillende snake games maakte.
+De eerste snake game  
 
 <!--more-->
 
