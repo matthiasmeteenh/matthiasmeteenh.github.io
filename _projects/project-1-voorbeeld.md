@@ -1,10 +1,7 @@
 ---
-title:  "supperhero website"
+title:  "superhero website"
 ---
 
----
-banner:  "./assets/images/IMG_3771.JPG"
----
 ## titel 1
 
 lorem
